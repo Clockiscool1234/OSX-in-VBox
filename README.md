@@ -11,7 +11,7 @@ The `setup.bat` patches some bugs to make it run macOS
 ### Create a machine and select the type as `Mac OS X` and choose `Mac OS X (64-bit)`<br>
 <img src="img/1.png"><img src="img/2.png"><br>
 ### Do not select an iso file because we will be using the `BaseSystem.vdi` that will be created later<br>
-### Make sure EFI is enabled and 2 core is recommended<br>
+### Make sure EFI is enabled and 2 cores is recommended<br>
 <img src="img/3.png"><br>
 ### Create a hard disk with a minimum size of 30GB<br>
 <img src="img/4.png"><br>
