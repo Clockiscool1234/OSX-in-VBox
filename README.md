@@ -7,6 +7,10 @@ And deletes the `dmg` and `img` image files <br>
 The `setup.bat` patches some bugs to make it run macOS
 
 ## Setup
+### Requirements
+- VirtualBox
+- Python
+- Storage minimum 30GB+
 
 Create a machine and select the type as `Mac OS X` and choose `Mac OS X (64-bit)`<br><br>
 Do not select an iso file because we will be using the `BaseSystem.vdi` that will be created later<br><br>
